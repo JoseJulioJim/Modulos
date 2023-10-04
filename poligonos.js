@@ -78,14 +78,7 @@ export class Polígono{
 
 };
 
-export class Cuadrado{
 
-};
 
-export class Pentágono{
 
-};
 
-export class Triangulo{
-
-};
